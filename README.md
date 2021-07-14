@@ -1,5 +1,7 @@
 # Продукт 1  (Brazilian e-commerce market place)
 
+Product Backlog: https://drive.google.com/drive/u/0/folders/1b1m_riTxX2iWt-nzQ6SEoMKOugrVL11S
+
 ## Задача 1  (Time Series)
 Задача состоит в прогнозировании продаж продуктов на 14 дней, через 7 дней с момента последней продажи данного товара.
 
