@@ -16,3 +16,5 @@
 - one model for all weeks;
 - weekly models;
 - recursive modeling
+
+Follow the link for more ideas: https://medium.com/artefact-engineering-and-data-science/sales-forecasting-in-retail-what-we-learned-from-the-m5-competition-445c5911e2f6
