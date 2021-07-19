@@ -1,0 +1,6 @@
+price,freight_value,product_weight_g,product_volume,distance_km,same_state,same_city,shipping_limit_date_overdue,time_purchase_approved (in hours),order_purchase_year,order_purchase_month,order_purchase_day,order_purchase_hour,weekend
+58.9,13.29,650,3528,301.5,0,0,0,0.775833333,2017,9,13,8,0
+239.9,19.93,30000,60000,585.56,1,1,0,0.201944444,2017,4,26,10,0
+199,17.87,3050,14157,312.34,0,1,1,0.249722222,2018,1,14,14,1
+12.99,12.79,200,2400,293.17,1,1,1,0.161944444,2018,8,8,10,0
+199.9,18.14,3750,42000,646.16,0,0,0,0.206111111,2017,2,4,13,0
